@@ -2,7 +2,7 @@ package com.example.pigeottomobile;
 
 import android.view.View;
 
-import com.example.pigeottomobile.models.Post;
+import com.example.pigeottomobile.Models.Post;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
