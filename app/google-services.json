@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1067604948840",
+    "firebase_url": "https://pigeottomobile-d2229-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pigeottomobile-d2229",
+    "storage_bucket": "pigeottomobile-d2229.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067604948840:android:dd504497071183146d88dd",
+        "android_client_info": {
+          "package_name": "com.example.pigeottomobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067604948840-un491tivuduia4emt18viobds2nol9b8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pigeottomobile",
+            "certificate_hash": "e97f2623b77969b59108695fa0baa0d5edd5a727"
+          }
+        },
+        {
+          "client_id": "1067604948840-gi1pppge6lf74u4to5do5b3m0fepase1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUg2XDB2HRnNF5-EmSC_2h7n1ilQfeyYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067604948840-gi1pppge6lf74u4to5do5b3m0fepase1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

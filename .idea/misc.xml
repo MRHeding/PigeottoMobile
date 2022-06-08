@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PigeottoMobile/app/src/main/res/drawable/black_gradient.xml" value="0.22135416666666666" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/drawable/circle_bg.xml" value="0.22135416666666666" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/drawable/fragment_home.xml" value="0.24947916666666667" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/drawable/fragment_profile.xml" value="0.22135416666666666" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/drawable/ic_baseline_photo_library_24.xml" value="0.19270833333333334" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/drawable/ic_create_black_24d.xml" value="0.3828125" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/drawable/ic_create_black_24dp.xml" value="0.22239583333333332" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/drawable/ic_exit_to_app_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/drawable/ic_person_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/drawable/ic_settings_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/drawable/pigeon.xml" value="0.3828125" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/drawable/popup_edittext_style.xml" value="0.22135416666666666" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/drawable/splashscreen.xml" value="1.0" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/layout/activity_home2.xml" value="0.20520833333333333" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/layout/activity_loading.xml" value="0.276268115942029" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/layout/activity_main_page.xml" value="0.276268115942029" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/layout/activity_profile.xml" value="0.1765625" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/layout/activity_registration.xml" value="0.36666666666666664" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/layout/app_bar_home.xml" value="0.26268115942028986" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/layout/content_home.xml" value="0.1" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/layout/nav_header_home.xml" value="0.26268115942028986" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/layout/popup_add_post.xml" value="0.33" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/layout/row_post_item.xml" value="0.33" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/menu/activit_home2_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/menu/activity_home2_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/PigeottoMobile/app/src/main/res/menu/home.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
